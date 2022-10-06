@@ -1,6 +1,5 @@
 const pool = require('../pool/pool');
 const bcrypt = require('bcrypt')
-const messages = require('../messages/messages');
 const checkError = require('../messages/errors');
 
 const signUp = (async (req, res) => {
