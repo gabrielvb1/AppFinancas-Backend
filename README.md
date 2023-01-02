@@ -1,7 +1,7 @@
 # AppFinancas-Backend
 
 ## RESTful API que está fornece dados para a aplicação: https://appfinancas-sable.vercel.app/ ##
-## Endereco da API: https://appfinancasserver.herokuapp.com
+## Endereco da API: https://app-financas-server.onrender.com/
 
 API em padrão REST que se conecta com o banco de dados PostgreSQL também criado por mim. A API permite:
 
